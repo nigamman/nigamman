@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Low Level Design and DevOPS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nigamman?tab=repositories]
+- 👨‍💻 All of my projects are available at [https://github.com/nigamman?tab=repositories](https://github.com/nigamman?tab=repositories)
 
 - 💬 Ask me about **react, javascript, flutter, dart, expressjs**
 
