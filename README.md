@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivansh Nigam</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack mobile developer from India</h3>
 
 - 🔭 I’m currently working on [QuantumSync: Ultimate Puzzle](https://play.google.com/store/apps/details?id=com.nigamman.quantumsync&hl=en_IN)
 
