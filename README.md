@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivansh Nigam</h1>
 <h3 align="center">A passionate full-stack mobile developer from India</h3>
 
-- 🔭 I'm currently working on [QuantumSync: Ultimate Puzzle](https://play.google.com/store/apps/details?id=com.nigamman.quantumsync&hl=en_IN)
+- 🔭 I'm currently working on [FinTrack App: Smart Expense Tracker](https://github.com/nigamman/smart-fintech-app)
 
 - 🌱 I'm currently learning **Low Level Design and DevOPS**
 
